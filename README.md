@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Edson Melo de Souza👋
 
-<!--
-**EdsonMSouza/EdsonMSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
 
-Here are some ideas to get you started:
+📝 I teach undergraduate courses in Algorithms, Data Structures, Programa Languages (Java, Python, PHP, C/C#, Node.js) and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![EdsonMsouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonMSouza&show_icons=true)
+
+<a target="_blank" href="https://www.linkedin.com/in/souzaem/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
