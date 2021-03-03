@@ -1,6 +1,7 @@
 ### Hi, I'm Edson Melo de Souza 
 
-📚 <code>I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil</code>.
+📚 <text>I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil</text>.
+
 📝 I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Node.js and Data Science.
 
 ### Languages and Tools:
