@@ -4,7 +4,7 @@
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/souzaem/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a><br>
 
 
 📚 I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
