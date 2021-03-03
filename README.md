@@ -1,14 +1,6 @@
 ### Hi, I'm Edson Melo de Souza 
-<a target="_blank" href="mailto:prof.edson.melo@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/souzaem/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br>
 
-
-📚 I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
-
+📚 <code>I'm a Professor adn Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil</code>.
 📝 I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Node.js and Data Science.
 
 ### Languages and Tools:
