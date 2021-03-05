@@ -2,7 +2,7 @@
 
 📚 I'm a Professor and Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
 
-📝 I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Node.js and Data Science.
+📝 I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Mobile, Node.js and Data Science.
 
 <hr>
 
