@@ -23,5 +23,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <hr>
 
-![EdsonMsouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonMSouza&show_icons=true)
+![EdsonMsouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonmsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsouza&layout=compact&langs_count=7&theme=dracula)
