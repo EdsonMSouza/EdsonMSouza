@@ -24,3 +24,4 @@
 <hr>
 
 ![EdsonMsouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonMSouza&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsouza)](https://github.com/edsonmsouza/github-readme-stats)
