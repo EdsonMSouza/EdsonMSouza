@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmsouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
- <img src="https://camo.githubusercontent.com/0694f99a2dfc1145b466a5addd9353f5707cd8e9b9d2270c9f7fb57a11aee9c1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7472617565267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=edsonmesouza&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/0694f99a2dfc1145b466a5addd9353f5707cd8e9b9d2270c9f7fb57a11aee9c1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7472617565267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=edsonmsouza&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 </div>
 <div>
  <a href="https://github.com/edsonmsouza">
